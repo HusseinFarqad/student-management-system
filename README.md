@@ -16,7 +16,7 @@ A desktop application built with Electron and React for managing student academi
 
 ### Performance Analytics
 
-<img src="https://github.com/user-attachments/assets/3efceaf5-fd79-4036-a8d7-333018e5874b" alt="Student performance analytics and reporting" />
+<img src="https://github.com/user-attachments/assets/e9023a8a-072c-42dc-bd5d-358195aba0f7" alt="Student performance analytics and reporting" />
 
 </div>
 
