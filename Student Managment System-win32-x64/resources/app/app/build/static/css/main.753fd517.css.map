@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.753fd517.css","mappings":"AAAA,KACE,wBAAyB,CACzB,aACF,CAEA,EACE,qBACF","sources":["App.css"],"sourcesContent":["body {\n  background-color: #292d3e;\n  direction: rtl;\n}\n\n* {\n  box-sizing: border-box;\n}"],"names":[],"sourceRoot":""}
